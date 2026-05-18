@@ -2,7 +2,7 @@
 
 ### Description
 
-This is small library inspired by [TypeORM](https://typeorm.io/docs/getting-started).
+This is a small library inspired by [TypeORM](https://typeorm.io/docs/getting-started).
 
 Like TypeORM, exports a base "Entity" class, however this library does so using the [Active Record](https://typeorm.io/docs/guides/active-record-data-mapper#what-is-the-active-record-pattern) format (which TypeORM does not).
 
